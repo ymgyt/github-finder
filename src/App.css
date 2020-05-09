@@ -46,6 +46,7 @@ img {
   margin: auto;
   overflow: hidden;
   padding: 0 2rem;
+  border: 1px solid #dd0000;
 }
 
 /* Text Styles*/
@@ -412,3 +413,10 @@ table th {
     justify-content: center;
   }
 }
+
+/* ho
+.ho {
+  width: 400px;
+  margin: auto;
+}
+ */
